@@ -18,7 +18,7 @@
   background-image: url(../images/background_header.svg);
   background-position: center;
   background-size: cover;
-  background-image: no-repeat;
+  background-repeat: no-repeat;
   z-index: 0;
   position: relative;
 }
@@ -48,7 +48,7 @@
 
 .nav__logo {
   position: relative;
-  left: -50;
+  left: -50px;
   width: 105px;
   height: 39px;
 }
@@ -111,7 +111,7 @@
   padding: 100px 80px 215px;
   background-color: #0a2750;
   background-image: url(../images/background_recipes.svg);
-  background-image: no-repeat;
+  background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   color: #ffffff;
