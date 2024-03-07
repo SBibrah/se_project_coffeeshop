@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+I would really like to expand upon the keyframes animation feature that we learned about in this project. I feel like it would really open up the page more if a little extra animation was added to the beggining of the landing page. Otherwise it looks pretty good!
