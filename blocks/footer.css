@@ -45,6 +45,7 @@
   font-size: 16px;
   line-height: 20px;
   text-decoration: none;
+  transition: color 0.4s ease-in;
 }
 
 .footer__social-link:hover {

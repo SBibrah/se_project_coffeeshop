@@ -21,9 +21,8 @@
 .form__label_type_checkbox {
   display: flex;
   justify-content: center;
-  font-family: "Inter", "Arial", sans-serif;
-  font-style: normal;
   gap: 12px;
+  margin: 0;
 }
 
 .form__input {
@@ -39,6 +38,7 @@
   line-height: 30px;
   height: 60px;
   border-radius: 4px;
+  border: 1px solid #838383;
 }
 
 .form__input::placeholder {
